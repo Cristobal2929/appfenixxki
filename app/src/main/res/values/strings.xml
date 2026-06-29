@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppFenixxki</string>
+    <string name="start_button">Iniciar Traductor</string>
+    <string name="voice_tab">🎤 Voz</string>
+    <string name="text_tab">📝 Texto</string>
+    <string name="translate">Traducir</string>
+    <string name="copy">Copiar</string>
+    <string name="enter_french">Escribe o pega texto en francés</string>
+    <string name="listening">Escuchando...</string>
+    <string name="translation_error">Error al traducir</string>
+</resources>
